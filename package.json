@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/my-vite-react-app/",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d vite build --base=/my-vite-react-app/"
+
   },
   "dependencies": {
     "gh-pages": "^3.2.3",
