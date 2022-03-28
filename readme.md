@@ -2,9 +2,10 @@
 2.cd my-vite-react-app  
   yarn  
   yarn dev  
+      
 $ git init  
 $ git add .   
 $ git commit -m "first-commit"   
-git push  
+$ git push  
 
 https://gitbook.tw/chapters/github/fail-to-push   
