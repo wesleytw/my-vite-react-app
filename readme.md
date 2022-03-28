@@ -26,3 +26,4 @@ git subtree push --prefix dist origin gh-pages
 https://gitbook.tw/chapters/github/fail-to-push   
 https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane  
 
+n
